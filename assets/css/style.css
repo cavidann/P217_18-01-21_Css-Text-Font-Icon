@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Yusei_Magic';
+    src: url(../fonts/Yusei_Magic/YuseiMagic-Regular.ttf);
+}
+
+
+/* @font-face {
+    font-family: 'Bumble Bee';
+    src: url('bumblebee-webfont.eot');
+    src: url('bumblebee-webfont.woff') format('woff'), url('bumblebee-webfont.ttf') format('truetype'), url('bumblebee-webfont.svg#webfontg8dbVmxj') format('svg');
+} */
+
+
+/* otf,woff */
+
+div {
+    font-family: 'Yusei_Magic';
+}
